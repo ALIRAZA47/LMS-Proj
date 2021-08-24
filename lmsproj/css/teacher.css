@@ -1,0 +1,11 @@
+.mainheader{
+	text-align: center;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 25px;
+	text-decoration-color: #0000b3;
+	background-color: #da8c27d7;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 10px;
+}
